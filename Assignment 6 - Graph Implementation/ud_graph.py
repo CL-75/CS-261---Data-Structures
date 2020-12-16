@@ -1,5 +1,5 @@
 # Course: CS 261
-# Author: Casey Levy
+# Author:
 # Assignment: #6 - ud_graph.py
 # Description: Creating various methods for an undirected graph
 

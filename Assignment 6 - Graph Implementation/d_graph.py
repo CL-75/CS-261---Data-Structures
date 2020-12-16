@@ -1,5 +1,5 @@
 # Course: CS261 - Data Structures
-# Author: Casey Levy
+# Author: 
 # Assignment: #6 - d_graph.py
 # Description: Creating various methods for a directed graph
 
